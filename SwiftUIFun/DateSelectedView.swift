@@ -27,7 +27,7 @@ struct DateSelectedView: View {
                     } else {
                         EmptyView()
                     }
-                }
+                }.padding(.bottom, -13)
             }
             
         }.padding(.top)

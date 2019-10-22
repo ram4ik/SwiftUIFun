@@ -16,6 +16,7 @@
 		959B9FDD235F16BB00171DD8 /* TopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959B9FDC235F16BB00171DD8 /* TopView.swift */; };
 		959B9FDF235F200B00171DD8 /* XPBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959B9FDE235F200B00171DD8 /* XPBarView.swift */; };
 		959B9FE1235F253800171DD8 /* DateSelectedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959B9FE0235F253800171DD8 /* DateSelectedView.swift */; };
+		959B9FE3235F31F700171DD8 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959B9FE2235F31F700171DD8 /* CardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		959B9FDC235F16BB00171DD8 /* TopView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopView.swift; sourceTree = "<group>"; };
 		959B9FDE235F200B00171DD8 /* XPBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XPBarView.swift; sourceTree = "<group>"; };
 		959B9FE0235F253800171DD8 /* DateSelectedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateSelectedView.swift; sourceTree = "<group>"; };
+		959B9FE2235F31F700171DD8 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				959B9FDC235F16BB00171DD8 /* TopView.swift */,
 				959B9FDE235F200B00171DD8 /* XPBarView.swift */,
 				959B9FE0235F253800171DD8 /* DateSelectedView.swift */,
+				959B9FE2235F31F700171DD8 /* CardView.swift */,
 				959B9FCE235F109E00171DD8 /* Assets.xcassets */,
 				959B9FD3235F109E00171DD8 /* LaunchScreen.storyboard */,
 				959B9FD6235F109E00171DD8 /* Info.plist */,
@@ -158,6 +161,7 @@
 				959B9FC9235F109D00171DD8 /* AppDelegate.swift in Sources */,
 				959B9FE1235F253800171DD8 /* DateSelectedView.swift in Sources */,
 				959B9FCB235F109D00171DD8 /* SceneDelegate.swift in Sources */,
+				959B9FE3235F31F700171DD8 /* CardView.swift in Sources */,
 				959B9FDD235F16BB00171DD8 /* TopView.swift in Sources */,
 				959B9FCD235F109D00171DD8 /* ContentView.swift in Sources */,
 				959B9FDF235F200B00171DD8 /* XPBarView.swift in Sources */,

@@ -15,6 +15,19 @@ struct ContentView: View {
             TopView()
             XPBarView()
             DateSelectedView()
+            
+            ZStack {
+                Rectangle()
+                    .foregroundColor(.gray)
+                    .opacity(0.4)
+                    .edgesIgnoringSafeArea(.bottom)
+                
+                ScrollView(.vertical, showsIndicators: true) {
+                    ForEach(0 ..< 5) { item in
+                        CardView()
+                    }
+                }
+            }
         }
     }
 }
